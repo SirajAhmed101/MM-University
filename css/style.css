@@ -491,6 +491,9 @@ p {
 }
 
 @media only screen and (max-width: 425px) {
+  .about-section {
+    margin-top: 2rem;
+  }
   .hero-section .logo figure img {
     margin-left: -20rem;
   }
